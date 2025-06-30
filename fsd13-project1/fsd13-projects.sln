@@ -14,6 +14,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fsd13-project2", "fsd13-pro
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApp1", "WpfApp1\WpfApp1.csproj", "{DB1A0F67-5FDA-4814-99D5-D2715DCF6DEC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment2", "Assignment2\Assignment2.csproj", "{54050F5E-07FA-4E64-9B04-3909E3412F51}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fsd13-project3", "fsd13-project3\fsd13-project3.csproj", "{F974215E-E7C0-47D2-9CFE-D13C1BF7C702}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -32,6 +36,14 @@ Global
 		{DB1A0F67-5FDA-4814-99D5-D2715DCF6DEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DB1A0F67-5FDA-4814-99D5-D2715DCF6DEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DB1A0F67-5FDA-4814-99D5-D2715DCF6DEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54050F5E-07FA-4E64-9B04-3909E3412F51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54050F5E-07FA-4E64-9B04-3909E3412F51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54050F5E-07FA-4E64-9B04-3909E3412F51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54050F5E-07FA-4E64-9B04-3909E3412F51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F974215E-E7C0-47D2-9CFE-D13C1BF7C702}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F974215E-E7C0-47D2-9CFE-D13C1BF7C702}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F974215E-E7C0-47D2-9CFE-D13C1BF7C702}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F974215E-E7C0-47D2-9CFE-D13C1BF7C702}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
