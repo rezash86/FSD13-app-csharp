@@ -10,7 +10,7 @@ namespace StudentGradeManagement
     public record Student(string Id, string Name, string Course, double Grade);
     class Program
     {
-        static string filePath = "student.csv";
+        static string filePath = @"../../../student.csv";
         static List<Student> students = new List<Student>();
         static void Main()
         {
